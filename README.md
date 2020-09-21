@@ -2,7 +2,7 @@
 
 
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+
 
 ## <a href="https://gifted-sammet-eaa173.netlify.app">LIVE DEMO</a>
 
