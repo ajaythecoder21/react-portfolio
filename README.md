@@ -1,4 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Ajay Kamalakanna Portfolio Website     
 
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
